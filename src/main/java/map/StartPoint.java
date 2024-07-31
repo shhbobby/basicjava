@@ -1,10 +1,13 @@
 package map;
 
+import java.util.concurrent.ConcurrentHashMap;
+
 public class StartPoint {
     public static void main(String[] args) {
-        aboutLength();
+        //aboutLength();
 //        nomal();
-//        interesting();
+        interesting();
+        ConcurrentHashMap
     }
 
     static void interesting() {

@@ -1,12 +1,16 @@
 package date;
 
+import java.lang.reflect.Array;
 import java.time.*;
+import java.util.ArrayList;
 
 public class StartPoint {
     public static void main(String[] args) {
 //        System.out.println(isPreviousDay(LocalDateTime.now()));
 //        naturalNextDate();
         System.out.println(durationMethod());
+        ArrayList list = new ArrayList();
+        list.stream().sorted();
     }
 
     static long durationMethod() {
