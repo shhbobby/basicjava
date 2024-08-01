@@ -1,5 +1,6 @@
 package map;
 
+import java.util.HashMap;
 import java.util.concurrent.ConcurrentHashMap;
 
 public class StartPoint {
@@ -7,7 +8,7 @@ public class StartPoint {
         //aboutLength();
 //        nomal();
         interesting();
-        ConcurrentHashMap
+        HashMap
     }
 
     static void interesting() {
