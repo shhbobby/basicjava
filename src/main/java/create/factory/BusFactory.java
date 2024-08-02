@@ -1,4 +1,4 @@
-package factory;
+package create.factory;
 
 public class BusFactory implements IFactory {
     @Override

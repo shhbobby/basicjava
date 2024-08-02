@@ -1,4 +1,4 @@
-package build;
+package create.build;
 
 public class User {
     private String name;
@@ -19,7 +19,7 @@ public class User {
         private int age;
         private String gender;
         private String address;
-
+        //TODO key point
         private Builder() {
         }
         //TODO key point
