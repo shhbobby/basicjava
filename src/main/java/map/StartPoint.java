@@ -8,7 +8,6 @@ public class StartPoint {
         //aboutLength();
 //        nomal();
         interesting();
-        HashMap
     }
 
     static void interesting() {
